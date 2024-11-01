@@ -2,6 +2,7 @@
 This project explores 2013 US domestic flight data to analyze factors contributing to flight delays. It was developed as a challenge after completing data exploration modules in Microsoft Learn, providing an opportunity to apply new skills and perform additional analyses beyond the initial requirements.
 
 **Project Overview**
+
 This analysis tackles several questions, including:
 
 - Average departure and arrival delays.
@@ -19,6 +20,7 @@ Source: US Department of Transportation, 2013.
 Year, Month, Day of Month, Day of Week, Carrier, Origin and Destination Airports, Departure and Arrival Times, Delay Indicators, and Cancellation status.
 
 **Insights**
+
 This analysis highlights patterns such as:
 
 - Carriers with the best and worst on-time performance.
@@ -26,4 +28,5 @@ This analysis highlights patterns such as:
 - Specific airports and routes with consistent delay trends.
   
 **Tools**
+
 Python, Pandas, and Matplotlib for data cleaning, statistical analysis, and visualization.
