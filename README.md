@@ -8,7 +8,7 @@ This analysis tackles several questions, including:
 - Comparison of carrier delay performance.
 - Day-of-week patterns in delays.
 - Airports and routes with the highest delays.
-Additional analyses were conducted to explore trends, building on the original challenge requirements to deepen understanding.
+- Additional analyses were conducted to explore trends, building on the original challenge requirements to deepen understanding.
 
 **Dataset**
 Source: US Department of Transportation, 2013.
